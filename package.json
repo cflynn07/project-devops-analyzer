@@ -26,6 +26,9 @@
   "preferGlobal": false,
   "dependencies": {
     "101": "^0.8.2",
-    "debug": "^2.1.1"
+    "code": "^1.2.1",
+    "debug": "^2.1.1",
+    "defaults": "^1.0.0",
+    "lab": "^5.2.0"
   }
 }
