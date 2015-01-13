@@ -1,5 +1,6 @@
 Project Devops Analyzer
 =======================
+[![Build Status](https://travis-ci.org/cflynn07/project-devops-analyzer.svg)](https://travis-ci.org/cflynn07/project-devops-analyzer)
 
 Utilities for initial project setup at runnable.io
 
