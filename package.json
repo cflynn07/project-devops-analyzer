@@ -4,7 +4,7 @@
   "description": "Utilities for initial project setup at runnable.io",
   "main": "index.js",
   "scripts": {
-    "test": "jshint . && lab -v -l -m 200 -e test"
+    "test": "jshint ./lib && lab -v -l -m 200 -e test"
   },
   "repository": {
     "type": "git",

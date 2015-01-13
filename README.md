@@ -11,7 +11,9 @@ Usage
 -----
 ```js
 var Analyzer = require('project-devops-analyzer');
-var analyzer = new Analyzer();
+var analyzer = new Analyzer({
+  throw: true
+});
 
 // Infer via GitHub API
 var GitHubApi = require('github');
